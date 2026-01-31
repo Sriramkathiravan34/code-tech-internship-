@@ -128,5 +128,6 @@ These metrics help in assessing the predictive performance of the model.
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
 
-## ouypuy
+## output
+<img width="345" height="293" alt="Image" src="https://github.com/user-attachments/assets/c0dc20f3-b279-4997-941a-b932885be3fa" />
 
