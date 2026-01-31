@@ -129,5 +129,5 @@ These metrics help in assessing the predictive performance of the model.
 git clone https://github.com/your-username/your-repository-name.git
 
 ##**output**
-<img width="345" height="293" alt="Image" src="https://github.com/user-attachments/assets/c0dc20f3-b279-4997-941a-b932885be3fa" />
+<img width="1086" height="279" alt="Image" src="https://github.com/user-attachments/assets/99eb07a8-8b5a-4702-84b6-b33e9db3f9e2" />
 
