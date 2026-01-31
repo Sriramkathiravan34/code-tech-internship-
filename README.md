@@ -285,6 +285,8 @@ These metrics measure how accurately the system predicts user preferences.
 
 ## output
 
+<img width="813" height="198" alt="Image" src="https://github.com/user-attachments/assets/d88d2d1c-daab-4c9b-ac1e-a6925796edcf" />
+
 
 
 
