@@ -57,4 +57,4 @@ These metrics help measure the performance of the classifier on unseen data.
 The trained Decision Tree is visualized using `plot_tree()` from Scikit-learn, making
 
 ## output
-<img width="813" height="198" alt="image" src="https://github.com/user-attachments/assets/3b17d613-aa46-4c33-92fb-5e3ceb73483e" />
+<img width="345" height="293" alt="Image" src="https://github.com/user-attachments/assets/c0dc20f3-b279-4997-941a-b932885be3fa" />
