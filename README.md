@@ -126,3 +126,88 @@ These metrics help in assessing the predictive performance of the model.
 ##**output**
 <img width="1086" height="279" alt="Image" src="https://github.com/user-attachments/assets/99eb07a8-8b5a-4702-84b6-b33e9db3f9e2" />
 
+
+# Image Classification Using Convolutional Neural Networks (CNN)
+
+## 📌 Project Overview
+This project focuses on building an **image classification model** using **Convolutional Neural Networks (CNN)** with **TensorFlow/Keras**. The model is trained to recognize and classify images into different categories using deep learning techniques.
+
+The project demonstrates the complete workflow of image preprocessing, model building, training, testing, and performance evaluation on a standard image dataset.
+
+---
+
+## 🎯 Objectives
+- Understand the fundamentals of Convolutional Neural Networks  
+- Preprocess and normalize image data  
+- Design and train a CNN architecture  
+- Evaluate model performance on unseen test data  
+- Visualize training accuracy and loss  
+
+---
+
+## 📂 Dataset
+- **Dataset:** CIFAR-10  
+- **Source:** TensorFlow/Keras built-in dataset  
+- **Total Images:** 60,000 (50,000 training + 10,000 testing)  
+- **Image Size:** 32 × 32 pixels (RGB)  
+- **Classes:**  
+  - Airplane  
+  - Automobile  
+  - Bird  
+  - Cat  
+  - Deer  
+  - Dog  
+  - Frog  
+  - Horse  
+  - Ship  
+  - Truck  
+
+The dataset provides a balanced and standardized benchmark for image classification tasks.
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- TensorFlow / Keras  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+
+---
+
+## ⚙️ Project Workflow
+1. **Import Libraries** – Load required deep learning and data processing libraries  
+2. **Load Dataset** – Import CIFAR-10 dataset  
+3. **Data Preprocessing** –  
+   - Normalize pixel values  
+   - Reshape image data  
+   - Encode class labels  
+4. **Model Design** –  
+   - Convolution layers  
+   - Pooling layers  
+   - Fully connected layers  
+   - Dropout for regularization  
+5. **Model Compilation** – Configure optimizer, loss function, and metrics  
+6. **Model Training** – Train CNN using training dataset  
+7. **Model Evaluation** – Test model on unseen test dataset  
+8. **Visualization** – Plot accuracy and loss curves  
+9. **Prediction** – Classify new sample images  
+
+---
+
+## 📊 Model Evaluation
+The model performance is evaluated using:
+
+- **Accuracy Score**  
+- **Loss Value**  
+- **Training and Validation Curves**  
+- **Classification Report (optional)**  
+
+These metrics help assess the generalization ability of the CNN.
+
+---
+
+## 🚀 output
+
+
+
