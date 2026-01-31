@@ -209,5 +209,7 @@ These metrics help assess the generalization ability of the CNN.
 
 ## 🚀 output
 
+<img width="932" height="669" alt="Image" src="https://github.com/user-attachments/assets/de9b73b8-2811-468a-b8aa-961e53bbd06d" />
+
 
 
